@@ -1,5 +1,4 @@
 # Israeli-Election
-Analyzing the Israeli election results in 2020 and 2021.
 
 An analysis of the Israeli election results in 2020 and 2021.
 - Create meaningful insights by designing hypothesis testing with a one-tailed t-test.
